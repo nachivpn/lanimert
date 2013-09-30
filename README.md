@@ -1,4 +1,3 @@
 shell-repo
 ==========
-
-Shell experiments
+This repository doesn't have a specific scope. It contains experimental shell scripts.
